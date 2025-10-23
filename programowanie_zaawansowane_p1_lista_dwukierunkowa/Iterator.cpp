@@ -1,0 +1,1 @@
+// Definicje szablonów s¹ w Iterator.h

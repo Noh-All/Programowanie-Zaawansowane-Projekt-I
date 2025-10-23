@@ -1,0 +1,12 @@
+# Pliki cache Visual Studio
+/.vs/
+
+# Pliki generowane przez kompilator
+*.obj
+*.exe
+*.dll
+
+# Foldery build
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
