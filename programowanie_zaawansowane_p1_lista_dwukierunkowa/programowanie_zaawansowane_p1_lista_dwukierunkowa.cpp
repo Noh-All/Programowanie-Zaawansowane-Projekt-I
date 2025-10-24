@@ -72,6 +72,6 @@ int main() {
     delete myList;
 
     std::cout << "\n--- Testy zakonczone pomyslnie ---" << std::endl;
-    std::cout << "\nCELOWO DODANA ZLA LINIA DO COFNIECIA\n";
+
     return 0;
 }
