@@ -64,7 +64,7 @@ int main() {
     myList->Display();
 
     myList->Clear(); // <-- FAKTYCZNE WYWOŁANIE
-    // Zmiana z klona
+    // Zmiana z drugiego komputera
     std::cout << "Lista po Clear (powinna byc pusta): ";
     myList->Display();
 
